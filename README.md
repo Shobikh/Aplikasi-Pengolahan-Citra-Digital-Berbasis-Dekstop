@@ -9,7 +9,7 @@ Aplikasi dibangun menggunakan Python, Tkinter untuk GUI, serta OpenCV, Pillow, d
 Proyek ini dikerjakan oleh 3 orang mahasiswa sebagai tugas akhir mata kuliah PCD
 Anggota kelompok:
 - Fauzan Afif Lutfiansah / 432022611016
-- Muhammad Sobikh / 432022611047
+- Mukhammad Shobikh / 432022611047
 - Muhammad Rizki Hidayatullah	/ 432022611042
 
 
