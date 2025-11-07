@@ -42,7 +42,7 @@ Anggota kelompok:
     source venv/bin/activate # Mac/Linux
     ```
 
-3.  **Instal semua library yang dibutuhkan:**
+3.  **Install semua library yang dibutuhkan:**
     ```bash
     pip install -r requirements.txt
     ```
